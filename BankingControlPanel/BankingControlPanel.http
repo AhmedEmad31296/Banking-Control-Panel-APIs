@@ -1,0 +1,6 @@
+@BankingControlPanel_HostAddress = http://localhost:5121
+
+GET {{BankingControlPanel_HostAddress}}/BankingControlPanel/
+Accept: application/json
+
+###
